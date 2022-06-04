@@ -1,3 +1,7 @@
 # Hello 😁✌️
 
-[![Azri41's GitHub stats](https://github-readme-stats.vercel.app/api?username=azri41&theme=aura&show_icons=true)]()
+[![Azri41's GitHub stats](https://github-readme-stats.vercel.app/api?username=azri41&theme=codeSTACKr&show_icons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azri41)]()
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azri41&repo=github-readme-stats)]()
